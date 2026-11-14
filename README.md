@@ -39,6 +39,10 @@ This lists the decisions found by the searches above; it does not guarantee comp
 - [Noncompete vs. non-solicitation agreements](https://aaronhall.com/the-legalities-of-noncompete-non-solicitation-agreements/)
 - [Minnesota employment law for businesses](https://aaronhall.com/practice-areas/employment/)
 
+## Also Available
+
+- [Google Sheet version](https://docs.google.com/spreadsheets/d/e/2PACX-1vS--KRkvlEmRxmsCqXYcouMlzCq5z1KoST4v7MxI4NythJdviFrE-0K7YXFMEVshChD36ibhb8nELYV/pubhtml)
+
 ## License
 
 Data: CC BY 4.0. Please credit "Aaron Hall, aaronhall.com" and link to the page above.
