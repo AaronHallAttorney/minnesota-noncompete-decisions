@@ -4,6 +4,8 @@ A dataset of Minnesota Court of Appeals and Minnesota Supreme Court decisions on
 
 The full write-up, including what the courts said about the 2023 ban and the cases still pending, is at https://aaronhall.com/minnesota-noncompete-decisions/
 
+Archived on Zenodo with a DOI: [10.5281/zenodo.24343778](https://doi.org/10.5281/zenodo.24343778)
+
 ## File
 
 `minnesota-noncompete-decisions.csv`: one row per decision (12 rows), sorted by filed date.
